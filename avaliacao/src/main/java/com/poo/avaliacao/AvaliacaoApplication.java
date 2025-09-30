@@ -1,11 +1,13 @@
-package br.edu.ifpr.todo;
+package com.poo.avaliacao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class TodoApplication {
+public class AvaliacaoApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(TodoApplication.class, args);
+		SpringApplication.run(AvaliacaoApplication.class, args);
 	}
+
 }
