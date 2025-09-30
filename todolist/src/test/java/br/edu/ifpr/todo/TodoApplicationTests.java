@@ -1,10 +1,10 @@
-package com.poo.avaliacao;
+package br.edu.ifpr.todo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AvaliacaoApplicationTests {
+class TodoApplicationTests {
 
 	@Test
 	void contextLoads() {
